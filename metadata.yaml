@@ -1,4 +1,8 @@
 _repo: Psycho-Vox-or-The-Emerson-System-of-Voice-Culture_48515
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48515-h/images/cover.jpg
 creator:
   author:
     agent_name: Emerson, Charles Wesley
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1600
     wikipedia: http://en.wikipedia.org/wiki/Charles_Wesley_Emerson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48515#Psycho-Vox-or-The-Emerson-System-of-Voice-Culture
 gutenberg_issued: '2015-03-17'
 gutenberg_type: Text
 identifiers:
